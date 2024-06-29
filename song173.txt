@@ -1,4 +1,1 @@
 git gui hates russian
-all needed coupletes
---------------------
-something useless 
